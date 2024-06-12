@@ -132,31 +132,3 @@ pnpm test
 ![preview1.png](./src/assets/docs/preview1.png)
 ![preview2.png](./src/assets/docs/preview2.png)
 ![preview3.png](./src/assets/docs/preview3.png)
-
-## 💕 Contributors
-
-Thanks to all the contributors!
-
-<a href="https://github.com/un-pany/v3-admin-vite/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=un-pany/v3-admin-vite" />
-</a>
-
-## 💕 Thanks star
-
-Small projects are not easy to get a star, if you like this project, welcome to support a star! This is the only motivation for the author to maintain it on an ongoing basis (whisper: it's free after all)
-
-## ☕ Donate
-
-[See how to donate](https://github.com/un-pany/v3-admin-vite/issues/69)
-
-## Group
-
-[See how to join a group chat](https://github.com/un-pany/v3-admin-vite/issues/191)
-
-## 📄 License
-
-[MIT](./LICENSE)
-
-Copyright (c) 2022-present [pany](https://github.com/pany-ang)
-
-# adminPlatform
