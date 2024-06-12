@@ -158,3 +158,5 @@ Small projects are not easy to get a star, if you like this project, welcome to 
 [MIT](./LICENSE)
 
 Copyright (c) 2022-present [pany](https://github.com/pany-ang)
+
+# adminPlatform
