@@ -62,6 +62,23 @@ export const constantRoutes: RouteRecordRaw[] = [
     ]
   },
   {
+    path: "/uploadFile",
+    component: Layouts,
+    redirect: "/uploadFile",
+    children: [
+      {
+        path: "uploadFile",
+        component: () => import("@/views/uploadFile/index.vue"),
+        name: "UploadFile",
+        meta: {
+          title: "上传",
+          svgIcon: "dashboard",
+          affix: true
+        }
+      }
+    ]
+  },
+  {
     path: "/unocss",
     component: Layouts,
     redirect: "/unocss/index",
